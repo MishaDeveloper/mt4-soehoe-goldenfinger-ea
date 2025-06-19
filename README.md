@@ -43,7 +43,9 @@ This is a MetaTrader 4 Expert Advisor (EA) that trades based on two custom indic
 ## 📂 File Structure
 
 mt4-soehoe-goldenfinger-ea/
+
 ├── EA4.mq4
+
 └── README.md
 
 yaml
