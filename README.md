@@ -48,10 +48,6 @@ mt4-soehoe-goldenfinger-ea/
 
 └── README.md
 
-yaml
-Копировать
-Редактировать
-
 ---
 
 ## 🛠 Platform
